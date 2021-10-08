@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/65962822/136522381-6302adcd-4db1-4b66-bc89-e0f7c5862bca.png)
+![Screenshot_20211008_172649](https://user-images.githubusercontent.com/65962822/136523826-5ad51d12-17a3-42e2-a015-c5888117e83a.png)
 
 日本語 or English  
 
