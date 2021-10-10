@@ -24,11 +24,11 @@ X: Not in production. <br>
 
 ## How to use
 ①Download the css file of your choice.  
-②Create a directory called `VivaldiCSS` and place the downloaded CSS file in it. 
+②Create a directory called `VivaldiCSS` and place the downloaded CSS file in it.  
 ※At this time, please put only one CSS file in `VivaldiCSS`, otherwise it will not work.    
 ③Type `vivaldi://experiments/` in the address bar of Vivaldi and set `Allow for using CSS modifications` to true.  
 ![Screenshot_20211008_172136](https://user-images.githubusercontent.com/65962822/136523065-bd7118f3-0976-449f-8d47-ec529136d871.png)
-④If you restart Vivaldi, you will find an item called Original Custom UI in `vivaldi://settings/appearance/`. 
+④If you restart Vivaldi, you will find an item called Original Custom UI in `vivaldi://settings/appearance/`. <br>
 "Select a folder..." and specify the directory in ②.
 ![Screenshot_20211008_172532](https://user-images.githubusercontent.com/65962822/136523605-4a0c9371-5e61-401b-ad43-c9603ab37c97.png)
 ⑤If you reboot again, it will be applied.
