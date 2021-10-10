@@ -32,3 +32,5 @@ X: Not in production. <br>
 "Select a folder..." and specify the directory in ②.
 ![Screenshot_20211008_172532](https://user-images.githubusercontent.com/65962822/136523605-4a0c9371-5e61-401b-ad43-c9603ab37c97.png)
 ⑤If you reboot again, it will be applied.
+
+Translation by [code-raisan](https://github.com/code-raisan).
