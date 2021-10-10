@@ -11,7 +11,7 @@ O: Created.<br>
 !: In Production. <br>
 X: Not in production. <br>
 
-|ブラウザ名|ホワイトテーマ|ダークテーマ|
+|Browser Name|White Themes|Dark Theme|
 |-|-|-|
 |Firefox(Proton)|O|X|
 |Firefox(Photon)|X|X|
@@ -19,11 +19,11 @@ X: Not in production. <br>
 |Chrome|X|X|
 |Edge|X|X|
 
-## 注意事項
-- このCSSに不具合がありましたらIssueを立ててください
+## Caution
+- If you find any problems with this CSS, please create an Issue.
 
-## 使用方法
-①ご希望のcssファイルをダウンロードしてください。  
+## How to use
+①Download the css file of your choice.  
 ②`VivaldiCSS`というディレクトリをつくり、そこにダウンロードしたCSSファイルを配置します。  
 ※このとき、`VivaldiCSS`内にCSSファイルは1つだけ入れてください。2つ以上あると動きません。  
 ③Vivaldiのアドレスバーに`vivaldi://experiments/`と入力し、`Allow for using CSS modifications`をtrueにしてください。  
