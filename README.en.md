@@ -11,7 +11,7 @@ O: Created.<br>
 !: In Production. <br>
 X: Not in production. <br>
 
-|Browser Name|White Themes|Dark Theme|
+|Browser Name|White Theme|Dark Theme|
 |-|-|-|
 |Firefox(Proton)|O|X|
 |Firefox(Photon)|X|X|
