@@ -3,7 +3,7 @@
 
 日本語 or English  
 
-# 日本語
+# English
 ## What is Vivaldi-UI-Changer?
 Vivaldi UI Changer, as the name suggests, changes the appearance of the Vivaldi browser.  
 Please see the following table for specific details.  
