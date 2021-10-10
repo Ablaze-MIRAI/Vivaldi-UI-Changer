@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/65962822/136522381-6302adcd-4db1-4b66-bc89-e0f7c5862bca.png)
 ![Screenshot_20211008_173339](https://user-images.githubusercontent.com/65962822/136524811-f5e0c13c-caf1-4179-94ec-4e16aa3c93a8.png)
 
-日本語 or English  
+日本語 or [English](./README.en.md)  
 
 # 日本語
 ## Vivaldi-UI-Changerとは
