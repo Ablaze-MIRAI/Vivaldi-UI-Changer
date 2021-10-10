@@ -4,12 +4,12 @@
 日本語 or English  
 
 # 日本語
-## Vivaldi-UI-Changerとは
-Vivaldi UI Changerとは名前の通り、Vivaldiブラウザの外観を変更します。  
-具体的には以下の表をご覧ください。  
-O:制作済み  
-!:製作中  
-X:制作していません  
+## What is Vivaldi-UI-Changer?
+Vivaldi UI Changer, as the name suggests, changes the appearance of the Vivaldi browser.  
+Please see the following table for specific details.  
+O: Created  
+! O: Created !  
+X:Not in production
 
 |ブラウザ名|ホワイトテーマ|ダークテーマ|
 |-|-|-|
