@@ -8,8 +8,8 @@
 Vivaldi UI Changer, as the name suggests, changes the appearance of the Vivaldi browser.  
 Please see the following table for specific details.  
 O: Created  
-!: Created
-X:Not in production
+!: In Production
+X: Not in production
 
 |ブラウザ名|ホワイトテーマ|ダークテーマ|
 |-|-|-|
