@@ -7,9 +7,9 @@
 ## What is Vivaldi-UI-Changer?
 Vivaldi UI Changer, as the name suggests, changes the appearance of the Vivaldi browser.  
 Please see the following table for specific details.  
-O: Created. 
-!: In Production. 
-X: Not in production. 
+O: Created.<br>
+!: In Production. <br>
+X: Not in production. <br>
 
 |ブラウザ名|ホワイトテーマ|ダークテーマ|
 |-|-|-|
