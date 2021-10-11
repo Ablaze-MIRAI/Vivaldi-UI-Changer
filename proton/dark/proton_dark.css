@@ -1,0 +1,86 @@
+/* =======================================================*/
+/* ================== Ablaze | sharp_NEKO=================*/
+/* =======================================================*/
+
+/* =======================Proton==========================*/
+span.title{
+    box-sizing: border-box;
+    display:inline-block
+}
+.active.tab-header{
+    position:relative;
+    top:2px;
+}
+.toolbar-mainbar:after {
+    display: none !important;
+}
+.UrlBar-AddressField {
+    background-color: #1c1b22 !important;
+    border: none;
+    height: 32px;
+    border-radius: 2px;
+}
+#header{
+    height: 44px;
+    background-color: #1c1b22 !important;
+}
+.close svg{
+    background-color: #1c1b22;
+}
+.close svg:hover{
+    background-color: #2b2a33;
+}
+.tab{
+    height: 36px;
+    background-color: #1c1b22;
+    border-radius: 3px;
+}
+.tab.active{
+    background-color: #42414d !important;
+    box-shadow: 0px 0px 100px #000000;
+    outline: solid 1px #1c1b22;
+    box-sizing: border-box;
+}
+.ToolbarButton-Button{
+    float: none;
+    display: block;
+    margin-top: 2px;
+}
+.OmniDropdown{
+    background-color: #42414d;
+    position: absolute;
+    top: 36px;
+}
+.color-behind-tabs-on .UrlBar-AddressField:focus-within  {
+    background-color: #42414d !important;
+    height: 38px;
+    box-shadow: #00000020 0px 0px 10px;
+    box-sizing: border-box;
+}
+.vivaldi{
+    position: relative;
+    top: 7px;
+}
+.window-buttongroup{
+    position: relative;
+    top: 10px;
+}
+.tab-header{
+    position: relative;
+    top: 3px;
+}
+.sync-and-trash-container{
+    position: relative;
+    top: 3px;
+}
+#tabs-tabbar-container {
+    position: relative;
+    top: 4px;
+}
+.UrlBar{
+    height:38px;
+}
+.bookmark-bar{
+    height: 30px;
+    border-bottom: solid 1px #1c1b22 !important;
+}
