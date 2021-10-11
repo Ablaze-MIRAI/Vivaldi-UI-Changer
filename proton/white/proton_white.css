@@ -34,9 +34,6 @@ span.title{
     background-color: #E0E0E6;
     border-radius: 3px;
 }
-.tab.active svg{
-    background-color: #F9F9FB;
-}
 .tab.active{
     box-shadow: 0px 0px 100px #BBBBC4;
     outline: solid 1px #BBBBC4;
