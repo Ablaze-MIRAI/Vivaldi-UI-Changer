@@ -11,6 +11,9 @@ span.title{
     position:relative;
     top:2px;
 }
+#tabs-tabbar-container{
+    padding-top: 0px !important;
+}
 .toolbar-mainbar:after {
     display: none !important;
 }
@@ -20,8 +23,8 @@ span.title{
     height: 32px;
     border-radius: 2px;
 }
-#header{
-    height: 44px;
+#header, #titlebar{
+    min-height: 44px;
     background-color: #1c1b22 !important;
 }
 .close svg{
@@ -74,8 +77,22 @@ span.title{
     top: 3px;
 }
 #tabs-tabbar-container {
+    min-width: 44px;
     position: relative;
     top: 4px;
+}
+#tabs-subcontainer .tab-strip, #tabs-subcontainer{
+    margin-top: 5px;
+    height: 44px !important;
+}
+#tabs-tabbar-container[id="tabs-subcontainer"]{
+    height: 88px !important
+}
+
+#tabs-subcontainer.visible {
+    display: flex;
+    min-width: 44px !important;
+    min-height: 44px;
 }
 .UrlBar{
     height:38px;
