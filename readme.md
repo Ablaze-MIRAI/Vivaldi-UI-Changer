@@ -34,5 +34,5 @@ X:制作していません
 ![Screenshot_20211008_172532](https://user-images.githubusercontent.com/65962822/136523605-4a0c9371-5e61-401b-ad43-c9603ab37c97.png)
 ⑤また再起動しますと適用されています。  
 ⑥``Proton_Dark``系カスタムテーマを適用した場合は、暗色のVivaldiテーマを設定してください。  
-よりProtonの配色に近づけたい方は、以下のようなカスタムテーマを作成して使用することもできます。  
-![proton_dark_vivaldi_color](https://user-images.githubusercontent.com/47556340/136676588-02e58317-cdf3-41f2-bfa5-1222f47536df.png)
+よりProtonの配色に近づけたい方は、以下のようなカスタムテーマを[ダウンロード](https://github.com/Ablaze-MIRAI/Vivaldi-UI-Changer/blob/main/proton/dark/proton_dark_theme_vivaldi.zip?raw=true)して使用することもできます。  
+![Screenshot_20220201_000001](https://user-images.githubusercontent.com/47556340/151818413-8e1eb9fb-55fc-4c12-a327-158ff458e4a0.png)
